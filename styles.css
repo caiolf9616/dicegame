@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to right ,#5c33f6, #a239ea, #ff94cc, #f0d9e7);
+
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    margin: 20px;
+    font-size: 7rem;
+    color: #fff;
+    font-family: Lucida Sans;
+}
+
+.dice{
+    display: inline-block;
+    margin: 50px;
+}
+
+p{
+    font-weight: bold;
+    font-family: Verdana;
+    margin: 100px;
+    margin-top: 5px;
+    color: #0f044c;
+}
+
+img{
+    width: 300px;
+}
